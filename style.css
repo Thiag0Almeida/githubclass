@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    color: #380b61;
+    margin-left: 7%;
+}
+
+body{
+    background-color: #f0f8ff;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+ 
+}
